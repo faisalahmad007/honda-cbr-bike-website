@@ -1,0 +1,88 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+}  
+/* hero section */
+.background-details{
+    background-color: #264653;
+    background-size: cover;   
+}
+.first-paragraph{
+    color: #B2BDC1;
+    font-size: 0.8rem;
+    font-weight: 300;    
+}
+.heading-details{
+    color:white;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.second-paragraph{
+    color: #E0E0E0;
+    font-size: 1rem;
+    font-weight: 300
+}
+.purchase-button{
+    background-color:#E76F51;
+}
+/* featured bikes start */
+.feature-bike{
+    margin-top: 4rem;
+}
+.feature-text{
+    color:#E76F51;
+}
+.second-heading{
+    color: #000000;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.first-image img{
+    filter: grayscale(100%);
+}
+.third-image img{
+        filter: grayscale(100%);
+}
+/* Happy Clients start */
+.client-area{
+    margin-top: 4rem;
+}
+
+.clients-heading h1{
+    color:#0A0826;
+    font-size:3rem;
+    font-weight: 600;
+}
+.client-details{
+    margin-top:3.25rem;
+}
+.clients-heading span{
+    color:#E76F51;
+    font-size:3rem;
+    font-weight: 400;
+}
+.user-image img{
+    margin-top:2.5rem;
+    margin-left: 4.0625rem;
+    
+}
+.user-image p i{
+    color:#E77C40;
+}
+.user-image h6 a{
+    text-decoration: none;
+}
+/* asked section */
+.asked-area{
+    margin-top: 4rem;
+}
+/* global area */
+.global-area{
+    margin-top: 4rem;
+}
+/* subscriber section*/
+.submit-button{
+    background-color:#E76F51;
+    color: white;
+    margin-top: 1.25rem;
+}
